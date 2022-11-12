@@ -6,7 +6,7 @@ with open("style.css") as f:
 
 ####################
 # Header 
-st.title('Resume')
+
 st.write('''
 <h1 style="color:;font-size:50px;font-weight:bold;">PRUTHVIRAJ CHOKAKE</h1>
 
@@ -239,7 +239,7 @@ with st.expander("Django"):
 
 st.header('Hobbies')
 st.markdown('''
-- Codeing
+- Coding
 - Football
 - Swimming
 - Travelling
