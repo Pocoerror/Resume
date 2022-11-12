@@ -202,7 +202,7 @@ st.markdown('''
 ## Social Media
 ''')
 
-txt2('GitHub', 'https://github.com/chaninn/')
+txt2('GitHub', 'https://github.com/Pruthvi2121/')
 txt2('Leetcode', 'https://leetcode.com/Pruthvi2121/')
 txt2('Hackerank', 'https://www.hackerrank.com/chokake_pruthvi?hr_r=1')
 txt2('Streamlit', '123')
