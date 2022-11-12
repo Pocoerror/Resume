@@ -6,6 +6,7 @@ with open("style.css") as f:
 
 ####################
 # Header 
+st.title('Resume')
 st.write('''
 <h1 style="color:;font-size:50px;font-weight:bold;">PRUTHVIRAJ CHOKAKE</h1>
 
@@ -18,9 +19,9 @@ st.image(image, width=300)
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
 - Graduated in Computer Science 
-- Web development
-- Data Analysis
-- Web Scrapping
+- Skills - Web development , Data Analysis , Web Scrapping
+- Phone  - 9665545749
+- E-mail -  chokake.pruthvi@gmail.com
 ''')
 
 #####################
@@ -238,11 +239,12 @@ with st.expander("Django"):
 
 st.header('Hobbies')
 st.markdown('''
+- Codeing
 - Football
 - Swimming
 - Travelling
 - Video Games
 - Riding bike
-<>
+
 
 ''')
