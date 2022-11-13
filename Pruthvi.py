@@ -228,7 +228,7 @@ with st.expander("React"):
   st.image("certificate/html.jpg")
 
 with st.expander("CSS"):
-  st.image("certificate/html.jpg")
+  st.image("certificate/CSS.jpg")
 
 with st.expander("Java"):
   st.image("certificate/html.jpg")
